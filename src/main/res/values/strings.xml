@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GLB - The Gains Log Book</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_name">Default</string>
+    <string name="past_gains">PAST GAINS</string>
+    <string name="new_gains">NEW GAINS</string>
+    <string name="workout_day">Workout day</string>
+    <string name="date">Date</string>
+    <string name="exercise_name">Exercise name</string>
+    <string name="reps">12</string>
+    <string name="x_letter">X</string>
+    <string name="sets">3</string>
+    <string name="suggested_kgs">0</string>
+    <string name="kg">KG</string>
+    <string name="add_new_exercise">Add new exercise</string>
+
+</resources>
